@@ -1,0 +1,12 @@
+# Ignore VS Code folder
+.vscode/
+
+# Ignore executable files
+*.exe
+
+# Ignore tempCodeRunner files
+*tempCodeRunner*
+
+# Ignore pdf and docx
+*.pdf
+*.docx
